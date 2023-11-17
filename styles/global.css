@@ -1,0 +1,15 @@
+html {
+    box-sizing: border-box;
+    --bg-color:rgb(42, 42, 192)(0, 0, 255, 0.882);
+}
+
+
+
+body {
+background: var(--bg-color);
+}
+
+.active{
+    color:darkorange ;
+    font-weight:bold ;
+}

@@ -1,0 +1,14 @@
+ body,html{
+    --bg-color: orange
+}
+
+option{
+   text-align: center;
+   
+
+}
+img{
+    max-block-size: 35rem;
+    
+}
+    
